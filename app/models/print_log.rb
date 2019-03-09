@@ -1,0 +1,2 @@
+class PrintLog < ApplicationRecord
+end
